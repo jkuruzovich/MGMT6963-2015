@@ -28,5 +28,15 @@ Solutions 1-2 should be for the [Titanic](https://www.kaggle.com/c/titanic), and
 (6) Prepare 3 minute presentation on dataset and solution. 1 slide problem. 1 slide data. 1 slide solution. 
 
 
+## Kaggle Assignment 2 (Due on xxx)
+For the second Kaggle assignment we are all going to enter the TBD contest.   
+
+For this assignment, I'd like you to provide the following:
+
+(1) Introduction and overview of the data.
+
+(2) A series of blog style entries including your code, the things you tried, and the resulting outcomes.  
+
+(3) Print out of your resulting score and rank from 3 different entries to the competition. 
 
  
